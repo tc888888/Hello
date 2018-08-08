@@ -1,2 +1,4 @@
 # Hello
-Just initialize
+Hello Humans!
+
+Hubot here,I like Node.
